@@ -3,3 +3,10 @@
 Being Full Stack in Data Science to create AAA products with a high market impact, i co-lead data teams with a strong background in data environments and data engineering. I have also strong background with LatAm clients in last years.
 
 Currently, working with Data Science and Blockchain Analytics at Web3 with Solidity, Python, BigQuery and SQL to engineer data products with Web3 data sources.
+
+🛠️ Tech Stack:
+Python  MySQL 
+Pandas  Numpy  
+     
+Git  GitHub   
+Visual Studio Code  Jupyter  
