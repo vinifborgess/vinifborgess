@@ -35,11 +35,9 @@ Here, you gonna found AAA projects launchs, using the GitHub ecossystem to house
 
 ### Repositories
   
-All of the officially code supported by Vinícius Borges are housed in this account. Some of the main repositories are:
+All of the officially code supported by Vinícius Borges are housed in this account. The source code for the main projects is stored in their exactly repositories.
 
- • Source code for the main projects is stored in their exactly repositories.
-
- • Explore the latest titles, plus a growing collection of great projects across the repository.
+### Explore the latest titles, plus a growing collection of great projects across the repository.
 
 <div align="center">
   <a href="https://roboflow.com/?ref=ultralytics">
