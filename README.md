@@ -1,17 +1,18 @@
 <h1 align="center">
   <a
     target="_blank"
-    href="https://mage.ai"
+    href="https://wifflegif.com/gifs/594345-pixel-animation-pixel-art-gif"
   >
     <img
       align="center"
-      alt="Mage"
-      src="https://images-cdn.exchange.art/eRB0kU7A0YsIkpo-vdAEuaP9g-gz4cGQmRMyea6FYmw?ext=fastly&optimize=medium"
+      alt="Pixel Animation"
+      src="https://38.media.tumblr.com/5ee6dfe67f0b245ee5ca3445f97be960/tumblr_nl0fgnWc6A1qhmypro1_1280.gif"
       style="width:100%;"
     />
   </a>
 </h1>
 <p align="center">
+
 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) ![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
