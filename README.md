@@ -15,11 +15,40 @@
 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) ![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-3+ years of experience, working with PowerBI, Python, SAS and SQL. I have built an complete data product of field operator services and build a web application with cloud connectors to provides a complete data Governance for CEMIG, the most notable brazilian electric energy company globally.
+# Vinícius Borges presents...
 
-Being Full Stack in Data Science to create AAA products with a high market impact, i co-lead data teams with a strong background in data environments and data engineering. I have also strong background with LatAm clients in last years.
+Oh, hello traveler! Welcome to the house of the source code, bugs and issues tracker, and management of contributions, ideas and future features of my main projects.
 
-Currently, working with Data Science and Blockchain Analytics at Web3 with Solidity, Python, BigQuery and SQL to engineer data products with Web3 data sources.
+Here, you gonna found AAA projects launchs, using the GitHub ecossystem to house code for these tools.
+
+# How Borges uses GitHub:
+
+### Repositories
+  
+All of the officially code supported by Vinícius Borges are housed in this account. Some of the main repositories are:
+
+ • Source code for the main projects is stored in their exactly repositories.
+
+ • Explore the latest titles, plus a growing collection of great projects across the repository.
+
+<div align="center">
+  <a href="https://roboflow.com/?ref=ultralytics">
+    <img src="https://github.com/ultralytics/assets/raw/main/partners/logo-roboflow.png" width="10%" /></a>
+  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="15%" height="0" alt="" />
+  <a href="https://cutt.ly/yolov5-readme-clearml">
+    <img src="https://github.com/ultralytics/assets/raw/main/partners/logo-clearml.png" width="10%" /></a>
+  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="15%" height="0" alt="" />
+  <a href="https://bit.ly/yolov5-readme-comet2">
+    <img src="https://github.com/ultralytics/assets/raw/main/partners/logo-comet.png" width="10%" /></a>
+  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="15%" height="0" alt="" />
+  <a href="https://bit.ly/yolov5-neuralmagic">
+    <img src="https://github.com/ultralytics/assets/raw/main/partners/logo-neuralmagic.png" width="10%" /></a>
+</div>
+
+|                                                           Roboflow                                                           |                                                           ClearML ⭐ NEW                                                            |                                                                        Comet ⭐ NEW                                                                        |                                          Neural Magic ⭐ NEW                                           |
+| :--------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
+| Label and export your custom datasets directly to YOLOv5 for training with [Roboflow](https://roboflow.com/?ref=ultralytics) | Automatically track, visualize and even remotely train YOLOv5 using [ClearML](https://cutt.ly/yolov5-readme-clearml) (open-source!) | Free forever, [Comet](https://bit.ly/yolov5-readme-comet2) lets you save YOLOv5 models, resume training, and interactively visualise and debug predictions | Run YOLOv5 inference up to 6x faster with [Neural Magic DeepSparse](https://bit.ly/yolov5-neuralmagic) |
+
 
 Tech Stack:
 
@@ -32,5 +61,3 @@ Tech Stack:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vinifborgess&theme=algolia)](https://github.com/vinifborgess/github-profile-trophy)
-
-
