@@ -43,18 +43,19 @@ All of the officially code supported by Vinícius Borges are housed in this acco
 <div align="center">
   <a href="https://github.com/vinifborgess/aviationstack">
     <img src="https://panoramaaviation.com/wp-content/uploads/2018/04/cropped-Panorama-Favicon-1.png" width="10%"/></a>
-  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="13%" height="0" alt="" />
+  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="10%" height="0" alt="" />
   <a href="https://cutt.ly/yolov5-readme-clearml">
-    <img src="https://github.com/ultralytics/assets/raw/main/partners/logo-clearml.png" width="10%" /></a>
-  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="15%" height="0" alt="" />
+    <img src="https://raw.githubusercontent.com/mage-ai/assets/main/logo/mage-blocks-tele.gif" width="10%" /></a>
+  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="6%" height="0" alt="" />
   <a href="https://bit.ly/yolov5-readme-comet2">
     <img src="https://github.com/ultralytics/assets/raw/main/partners/logo-comet.png" width="10%" /></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="15%" height="0" alt="" />
   <a href="https://bit.ly/yolov5-neuralmagic">
-    <img src="https://github.com/ultralytics/assets/raw/main/partners/logo-neuralmagic.png" width="10%" /></a>
+    <img src="https://static.vecteezy.com/system/resources/previews/010/842/435/original/3d-illustration-ethereum-logo-png.png" width="10%" /></a>
+  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" height="0" alt="" />
 </div>
 
-|                                                           AviationStack Data Engineering E2E Project                                                           |                                                           ClearML ⭐ NEW                                                            |                                                                        Comet ⭐ NEW                                                                        |                                          Neural Magic ⭐ NEW                                           |
+|                                                           AviationStack Data Engineering E2E Project                                                           |                                                           NYC Trips Data Engineering E2E Project                                                            |                                                                        K-Meansdoscope                                                                        |                                          ETH Wallet Tracker (Web3)                                            |
 | :--------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
 | Monitor flight progress on an interactive commercial dashboard dedicated to airports with [AStack](https://github.com/vinifborgess/aviationstack) | Automatically track, visualize and even remotely train YOLOv5 using [ClearML](https://cutt.ly/yolov5-readme-clearml) (open-source!) | Free forever, [Comet](https://bit.ly/yolov5-readme-comet2) lets you save YOLOv5 models, resume training, and interactively visualise and debug predictions | Run YOLOv5 inference up to 6x faster with [Neural Magic DeepSparse](https://bit.ly/yolov5-neuralmagic) |
 
