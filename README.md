@@ -18,9 +18,9 @@
 
 # Vinícius Borges presents...
 
-Oh, hello traveler! Welcome to the house of the source code, bugs and issues tracker, and management of contributions, ideas and future features of my main projects.
+Oh, hello traveler! Welcome to the house of the source code, bugs and issues tracker, management of contributions, ideas and future features of my main projects.
 
-Here, you gonna found AAA projects launchs, using the GitHub ecossystem to house code for these tools.
+Here, you gonna found End-to-end projects launchs, using the GitHub ecossystem to house code for these tools.
 
 ### Stack:
 
@@ -57,7 +57,8 @@ All of the officially code supported by Vinícius Borges are housed in this acco
 
 |                                                           AviationStack Data Engineering E2E Project                                                           |                                                           NYC Trips Data Engineering E2E Project                                                            |                                                                        K-Meansdoscope                                                                        |                                          ETH Wallet Tracker (Web3)                                            |
 | :--------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
-| Monitor flight progress on an interactive commercial dashboard dedicated to airports with [AStack](https://github.com/vinifborgess/aviationstack) | Automatically track, visualize and even remotely train YOLOv5 using [ClearML](https://cutt.ly/yolov5-readme-clearml) (open-source!) | Free forever, [Comet](https://bit.ly/yolov5-readme-comet2) lets you save YOLOv5 models, resume training, and interactively visualise and debug predictions | Run YOLOv5 inference up to 6x faster with [Neural Magic DeepSparse](https://bit.ly/yolov5-neuralmagic) |
+| Monitor flight progress on an interactive commercial dashboard dedicated to airports with [AStack](https://github.com/vinifborgess/aviationstack). | Using the Mage open-source data pipeline tool to build an complete E2E solution to analyze NYC Taxi Trips. Visit [NYC Trips E2E DE Project](https://github.com/vinifborgess/de-trips) now. | State-of-the-art repository that builds on the teaching and application of K-Means for clustering performance with data. Visit [K-Meansdoscope](https://github.com/vinifborgess/kmeansdoscope) now. | [Track Ethereum Transactions and Balance](https://github.com/vinifborgess/eth-tx-tracker) using Python. Versatile project and brings a commercial quality code to Web3 enthusiasts.
+
 
 ### Bugs and issues
 
@@ -68,6 +69,5 @@ However, using GitHub is usually not necessary for reporting bugs. Instead, i'm 
 Each main project will have its own Trello board for problem reports, issue fixes, patch notes, bug updates, and progress tracking.
 
 Issues in GitHub are assigned labels which identify the type, priority and status of the issue as well as section of the issue is related to. You can filter issues by labels or multiple labels in the GitHub issue list.
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vinifborgess&theme=algolia)](https://github.com/vinifborgess/github-profile-trophy)
