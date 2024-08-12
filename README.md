@@ -2,9 +2,7 @@
 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) ![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-Oh, hello traveler! Welcome to the house of the source code, bugs and issues tracker, management of contributions, ideas and future features of my main projects.
-
-Here, you gonna found End-to-end projects launchs, using the GitHub ecossystem to house code for these tools.
+Oh, hello traveler! Welcome to the house of the source code, bugs and issues tracker, management of contributions, ideas and future features of my main projects. Here, you gonna found End-to-end projects launchs, using the GitHub ecossystem to house code for these tools.
 
 ### 🧰 Languages and Tools
 
