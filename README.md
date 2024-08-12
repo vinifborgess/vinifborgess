@@ -30,8 +30,7 @@ Oh, hello traveler! Welcome to the house of the source code, bugs and issues tra
 <img align="left" alt="Plotly" style="padding-right:10px;" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
 <br />
 
-### 
-###
+<br>
 
 # How Borges uses GitHub:
 
