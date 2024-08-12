@@ -33,7 +33,7 @@ Here, you gonna found End-to-end projects launchs, using the GitHub ecossystem t
 <br />
 
 
-## How Borges uses GitHub:
+# How Borges uses GitHub:
 
 ### Repositories
   
