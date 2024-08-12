@@ -28,10 +28,10 @@ Oh, hello traveler! Welcome to the house of the source code, bugs and issues tra
 <img align="left" alt="Matplotlib" style="padding-right:10px;" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
 <img align="left" alt="TensorFlow" style="padding-right:10px;" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img align="left" alt="Plotly" style="padding-right:10px;" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
-
 <br />
 
-# 
+### 
+###
 
 # How Borges uses GitHub:
 
