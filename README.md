@@ -1,3 +1,13 @@
+### Coming soon!
+
+2025 Roadmap: (link soon!)  
+
+Building Avaliaê! =) A concept app for decentralizing food reviews;
+
+Also diving into Web3 with a self-taught P2P bill payment project; 
+
+Starting my journey as a Game Dev.
+
 # 🧙‍♂️ Vinícius Borges presents...
 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) ![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
