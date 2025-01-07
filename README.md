@@ -1,20 +1,28 @@
-### Coming soon!
-
-2025 Roadmap: (link soon!)  
-
-Building Avaliaê! =) A concept app for decentralizing food reviews;
-
-Also diving into Web3 with a self-taught P2P bill payment project; 
-
-Starting my journey as a Game Dev.
-
 # 🧙‍♂️ Vinícius Borges presents...
 
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) ![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+Oh, hello traveler! 👋 
 
-Oh, hello traveler! Welcome to the house of the source code, bugs and issues tracker, management of contributions, ideas and future features of my main projects. Here, you gonna found End-to-end projects launchs, using the GitHub ecossystem to house code for these tools.
+Welcome to the house of the source code, bugs and issues tracker, management of contributions, ideas and future features of my main projects.
 
-### 🧰 Languages and Tools
+Here, you gonna found End-to-end projects launchs, using the GitHub ecossystem to house code for these tools.
+
+## Introducing Windmill 🌬️
+
+🔗 [Windmill is an AI-based initiative focused on building narratives for users of any level of understanding about football.](https://x.com/WindmillOnX) 
+
+## Projects
+
+- Chatbot using Python & Langchain
+- IaC Data Engineering using Python, Mage and Google Cloud
+- Stock Options App using Streamlit, nGrok
+
+## Launching Soon:
+
+#### 🔗 “LLMs Reason Engineering, the why? of outputs.”
+
+#### 🍽️ Avaliaê!, a concept app for decentralizing food reviews;
+
+## 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -46,8 +54,7 @@ Oh, hello traveler! Welcome to the house of the source code, bugs and issues tra
 
 ### Repositories
   
-All of the officially code supported by Vinícius Borges are housed in this account. The source code for the main projects is stored in their exactly repositories.
-
+All of the officially code supported by Vinícius Borges are housed in this account. The open-source main projects is stored in their exactly repositories.
 
 ## 🔮 Explore the latest titles, plus a growing collection of great projects across the repository.
 
