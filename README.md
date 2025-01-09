@@ -1,28 +1,34 @@
-# 🧙‍♂️ Vinícius Borges presents...
+# 🧙‍♂️ Vinícius Borges presents,
+
 
 Oh, hello traveler! 👋 
 
-Welcome to the house of the source code, bugs and issues tracker, management of contributions, ideas and future features of my main projects.
-
-Here, you gonna found End-to-end projects launchs, using the GitHub ecossystem to house code for these tools.
+Welcome to the house of the source code, bugs and issues tracker, management of contributions, ideas and future features of my main projects. Here, you gonna found E2E projects launchs, using the GitHub ecossystem to house code for these tools.
 
 ## Introducing Windmill 🌬️
 
 🔗 [Windmill is an AI-based initiative focused on building narratives for users of any level of understanding about football.](https://x.com/WindmillOnX) 
 
+<div align="center">
+  <a href="https://ultralytics.com/yolov8" target="_blank">
+  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/Background.png"></a>
+</div>
+
 ## Projects
 
-- Chatbot using Python & Langchain
-- IaC Data Engineering using Python, Mage and Google Cloud
-- Stock Options App using Streamlit, nGrok
+• Chatbot RAG using Python & Langchain 🔗🦜
 
-## Launching Soon:
+• IaC Data Engineering using Python, Mage and Google Cloud
+
+• Stock Options App using Streamlit, nGrok
+
+## Launching Soon
 
 #### 🔗 “LLMs Reason Engineering, the why? of outputs.”
 
 #### 🍽️ Avaliaê!, a concept app for decentralizing food reviews;
 
-## 🧰 Languages and Tools
+## Tech Stack
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -36,6 +42,7 @@ Here, you gonna found End-to-end projects launchs, using the GitHub ecossystem t
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <br />
+
 
 ### 📖 Libraries
 
