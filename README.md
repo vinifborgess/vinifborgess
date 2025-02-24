@@ -1,28 +1,54 @@
 # 🧙‍♂️ Vinícius Borges presents,
 
-
 Oh, hello traveler! 👋 
 
 Welcome to the house of the source code, bugs and issues tracker, management of contributions, ideas and future features of my main projects. Here, you gonna found E2E projects launchs, using the GitHub ecossystem to house code for these tools.
 
-## Introducing Windmill 🌬️
-
-🔗 [Windmill is an AI-based initiative focused on building narratives for users of any level of understanding about football.](https://x.com/WindmillOnX) 
+##
 
 <div align="center">
   <a href="https://ultralytics.com/yolov8" target="_blank">
-  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/Background.png"></a>
+  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/PixelGAN.png"></a>
 </div>
 
-## Projects
+##
 
-• Chatbot RAG using Python & Langchain 🔗🦜
+<div align="center">
+  <a href="https://ultralytics.com/yolov8" target="_blank">
+  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/LLMs.png"></a>
+</div>
 
-• IaC Data Engineering using Python, Mage and Google Cloud
 
-• Stock Options App using Streamlit, nGrok
+##
+<div align="center">
+  <a href="https://ultralytics.com/yolov8" target="_blank">
+  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/NYC.png"></a>
+</div>
 
-## Launching Soon
+##
+
+<div align="center">
+  <a href="https://ultralytics.com/yolov8" target="_blank">
+  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/RAG.png"></a>
+</div>
+
+##
+
+<div align="center">
+  <a href="https://ultralytics.com/yolov8" target="_blank">
+  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/Windmill.png"></a>
+</div>
+
+
+
+## 
+
+<div align="center">
+  <a href="https://ultralytics.com/yolov8" target="_blank">
+  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/Stock%20App.png"></a>
+</div>
+
+## Concept projects (on work):
 
 #### 🔗 “LLMs Reason Engineering, the why? of outputs.”
 
@@ -44,7 +70,7 @@ Welcome to the house of the source code, bugs and issues tracker, management of 
 <br />
 
 
-### 📖 Libraries
+### 📖 Libs
 
 <img align="left" alt="scikit-learn" style="padding-right:10px;" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img align="left" alt="PyTorch" style="padding-right:10px;" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
@@ -57,9 +83,30 @@ Welcome to the house of the source code, bugs and issues tracker, management of 
 
 <br>
 
-# How Borges uses GitHub:
+# Labs
 
-### Repositories
+A space for testing, experimenting and innovation!
+
+Welcome to Borges Labs, a repository dedicated to exploring new ideas, experimenting with emerging technologies and developing prototypes.
+
+🔬 What will you find here?
+
+Testing innovative concepts in the technologies I've been working on. Experimental prototypes, models and approaches to projects, scripts, algorithms and other solutions created without commitment to production.
+
+🎯 Objective
+This is an environment for discovery, where ideas can be tested without fear of failure. Some of these explorations may evolve into real projects, while others may just serve as learning and reference.
+
+💡 How to contribute or interact?
+
+Feel free to explore the projects, suggest improvements or start discussions about new approaches and technologies!
+
+📌 Note: This is a living repository and may contain unfinished code, tests and experimental implementations.
+
+# Programming Challenges
+
+Here we will have a future repository for solving programming challenges for the languages ​​I work with.
+
+# Main Repositories
   
 All of the officially code supported by Vinícius Borges are housed in this account. The open-source main projects is stored in their exactly repositories.
 
