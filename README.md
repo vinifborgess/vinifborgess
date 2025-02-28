@@ -4,44 +4,40 @@ Oh, hello traveler! 👋
 
 Welcome to the house of the source code, bugs and issues tracker, management of contributions, ideas and future features of my main projects. Here, you gonna found E2E projects launchs, using the GitHub ecossystem to house code for these tools.
 
-##
-
+## Introducing PixelGAN, your AI-pixel map builder. 🗺️
 <div align="center">
   <a href="https://ultralytics.com/yolov8" target="_blank">
   <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/PixelGAN.png"></a>
 </div>
 
-##
-
-<div align="center">
-  <a href="https://ultralytics.com/yolov8" target="_blank">
-  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/LLMs.png"></a>
-</div>
-
-
-##
-<div align="center">
-  <a href="https://ultralytics.com/yolov8" target="_blank">
-  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/NYC.png"></a>
-</div>
-
-##
-
-<div align="center">
-  <a href="https://ultralytics.com/yolov8" target="_blank">
-  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/RAG.png"></a>
-</div>
-
-##
+## Introducing Windmill 🌬️
 
 <div align="center">
   <a href="https://ultralytics.com/yolov8" target="_blank">
   <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/Windmill.png"></a>
 </div>
 
+## Introducing LLMs, Python & Langchain: Building and Implementing 🦜
+<div align="center">
+  <a href="https://ultralytics.com/yolov8" target="_blank">
+  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/LLMs.png"></a>
+</div>
 
 
-## 
+## Introducing Google Cloud Data Engineering Project using New York City Trips .parquet Data ☁️
+<div align="center">
+  <a href="https://ultralytics.com/yolov8" target="_blank">
+  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/NYC.png"></a>
+</div>
+
+## Introducing RAG Chatbot ❄️
+
+<div align="center">
+  <a href="https://ultralytics.com/yolov8" target="_blank">
+  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/RAG.png"></a>
+</div>
+
+## Introducing Stock Options Predictor
 
 <div align="center">
   <a href="https://ultralytics.com/yolov8" target="_blank">
@@ -110,7 +106,7 @@ Here we will have a future repository for solving programming challenges for the
   
 All of the officially code supported by Vinícius Borges are housed in this account. The open-source main projects is stored in their exactly repositories.
 
-## 🔮 Explore the latest titles, plus a growing collection of great projects across the repository.
+## 🔮 Explore my main list of projects.
 
 |   |   |   |
 | --- | --- | --- |
