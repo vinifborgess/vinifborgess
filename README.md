@@ -8,13 +8,13 @@ Welcome to the house of the source code, bugs and issues tracker, management of 
 
 <div align="center">
   <a href="https://ultralytics.com/yolov8" target="_blank">
-  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/RAG.png"></a>
+  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/assets/RAG.png"></a>
 </div>
 
 # Introducing PixelGAN, your AI-pixel map builder. 🗺️
 <div align="center">
   <a href="https://ultralytics.com/yolov8" target="_blank">
-  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/PixelGAN.png"></a>
+  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/assets/PixelGAN.png"></a>
 </div>
 
 ## Projects
@@ -23,28 +23,26 @@ Welcome to the house of the source code, bugs and issues tracker, management of 
 
 <div align="center">
   <a href="https://ultralytics.com/yolov8" target="_blank">
-  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/Windmill.png"></a>
+  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/assets/Windmill.png"></a>
 </div>
 
 ### Introducing LLMs, Python & Langchain: Building and Implementing 🦜
 <div align="center">
   <a href="https://ultralytics.com/yolov8" target="_blank">
-  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/LLMs.png"></a>
+  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/assets/LLMs.png"></a>
 </div>
-
 
 ### Introducing Google Cloud Data Engineering Project using New York City Trips .parquet Data ☁️
 <div align="center">
   <a href="https://ultralytics.com/yolov8" target="_blank">
-  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/NYC.png"></a>
+  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/assets/NYC.png"></a>
 </div>
-
 
 ### Introducing Stock Options Predictor
 
 <div align="center">
   <a href="https://ultralytics.com/yolov8" target="_blank">
-  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/Stock%20App.png"></a>
+  <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/assets/Stock%20App.png"></a>
 </div>
 
 
