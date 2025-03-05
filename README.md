@@ -7,7 +7,7 @@ Welcome to the house of the source code, bugs and issues tracker, management of 
 # Introducing RAG Chatbot ❄️
 
 <div align="center">
-  <a href="https://ultralytics.com/yolov8" target="_blank">
+  <a href="https://github.com/vinifborgess/cortex" target="_blank">
   <img width="100%" src="https://github.com/vinifborgess/vinifborgess/blob/main/assets/RAG.png"></a>
 </div>
 
