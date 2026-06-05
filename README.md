@@ -70,9 +70,9 @@ Senior Data Engineer (+5 ys./xp) in large companies and startups.
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-## Showcase list
+## Showcase for Data Engineering projects
 
----
+[Check the full showcase here!](https://github.com/vinifborgess/data-engineering-portfolio)
 
 
 ## Orchestration Hub
