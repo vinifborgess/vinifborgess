@@ -23,6 +23,9 @@ Senior Data Engineer (+5 ys./xp) in large companies and startups.
 
 </div>
   <h2>🏅 Certificates & Scores</h2>
+
+<img alt="" src="https://templates.images.credential.net/16875328858623774637935876095299.png" width="150" />
+  
 <p>
 
 <h2>Cloud</h2>
